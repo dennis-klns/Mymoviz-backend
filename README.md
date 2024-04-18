@@ -26,7 +26,7 @@ Sinon vous pouvez télécharger et installer Node.js depuis le site officiel de 
 
 Tout d'abord, clonez le dépôt de votre projet en utilisant la commande suivante :
 
-```sh
+```
 git clone git@github.com:yourusername/yourprojectname.git
 cd yourprojectname
 ```
@@ -35,13 +35,13 @@ Installer Express.js et autres dépendances
 
 Dans le répertoire de votre projet, installez Express.js et les autres dépendances nécessaires en utilisant npm (le gestionnaire de paquets de Node.js) :
 
-```sh
+```
 npm install
 ```
 
 Si votre projet utilise Yarn comme gestionnaire de paquets, vous pouvez exécuter :
 
-```sh
+```
 yarn install
 ```
 

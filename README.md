@@ -75,7 +75,7 @@ Cette application utilise Mongo Db pour gérer la base de donnée.
 Créer un fichier .env
 
 L'application utilise une Api afin de fournir les films au site internet. Vous devez donc également ajouter la clé Api dans le .env
-Vous pouvez trouver une clé à l'adresse suivante : [https://newsapi.org/register](https://developer.themoviedb.org/docs/getting-started)](https://developer.themoviedb.org/docs/getting-started)
+Vous pouvez trouver une clé à l'adresse suivante : https://developer.themoviedb.org/docs/getting-started
 
 et ensuite l'intégrer dans le .env
 
